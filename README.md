@@ -26,6 +26,7 @@ A list of awesome apps, libraries, tools, etc.
   - [bloomz.cpp](https://github.com/NouamaneTazi/bloomz.cpp)
   - [bloom](https://huggingface.co/blog/bloom)
   - [gpt-j](https://github.com/graphcore/gpt-j)
+  - [mxnet](https://github.com/apache/mxnet)
 
 
 ## About
