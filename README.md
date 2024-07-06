@@ -5,16 +5,15 @@ A list of awesome apps, libraries, tools, etc.
 - Apps
   - [petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
   - [chat.petals.dev](https://github.com/petals-infra/chat.petals.dev) - 💬 Chatbot web app + HTTP and Websocket endpoints for LLM inference with the Petals client
-  - []() - Lorem ipsum.
+  
 - Websites
-  - []() - Lorem ipsum.
-  - []() - Lorem ipsum.
+  - [Federated Scope](https://github.com/alibaba/FederatedScope)
+
 - Socials
   - []() - Lorem ipsum.
-  - []() - Lorem ipsum.
-  - []() - Lorem ipsum.
+ 
 - Tools
-  - []() - Lorem ipsum.
+  - [PyTorch Federated Learning](https://github.com/AshwinRJ/Federated-Learning-PyTorch)
 - Frameworks
   - [FATE](https://github.com/FederatedAI/FATE) - An Industrial Grade Federated Learning Framework
   - [federated](https://github.com/tensorflow/federated) - A framework for implementing federated learning
